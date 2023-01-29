@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="50dp"/>
+    <stroke android:width="0.5dp"
+        android:color="@color/black"/>
+    <gradient android:angle="45"
+        android:startColor="@color/boton_off_inicio"
+        android:endColor="@color/boton_off_fin"/>
+</shape>

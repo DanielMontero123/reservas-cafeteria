@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Acer/Desktop/PROYECTOS/appAndroid/app/src/main/res/layout/activity_main.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/Acer/Desktop/PROYECTOS/appAndroid/app/src/main/res/layout/activity_menu.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/Acer/Desktop/PROYECTOS/appAndroid/app/src/main/res/layout/activity_nuevo_menu.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/Acer/Desktop/PROYECTOS/appAndroid/app/src/main/res/layout/activity_opciones.xml" value="0.264" />
+        <entry key="..\:/Users/Acer/Desktop/PROYECTOS/appAndroid/app/src/main/res/layout/activity_reservas.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/Acer/Desktop/PROYECTOS/appAndroid/app/src/main/res/layout/fila_menu.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/Acer/Desktop/PROYECTOS/appAndroid/app/src/main/res/layout/fila_personalizada.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/Acer/Desktop/PROYECTOS/appAndroid/app/src/main/res/layout/fragment_reservas_dos.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/Acer/Desktop/PROYECTOS/appAndroid/app/src/main/res/layout/fragment_reservas_tres.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/Acer/Desktop/PROYECTOS/appAndroid/app/src/main/res/layout/fragment_reservas_uno.xml" value="0.21557971014492755" />
+        <entry key="..\:/appAndroid/app/src/main/res/drawable/boton_fondo.xml" value="0.4" />
+        <entry key="..\:/appAndroid/app/src/main/res/drawable/boton_off.xml" value="0.4" />
+        <entry key="..\:/appAndroid/app/src/main/res/drawable/boton_on.xml" value="0.4" />
+        <entry key="..\:/appAndroid/app/src/main/res/drawable/esquinas_redondeadas.xml" value="0.2703125" />
+        <entry key="..\:/appAndroid/app/src/main/res/drawable/fondo_principal.xml" value="0.2703125" />
+        <entry key="..\:/appAndroid/app/src/main/res/layout/activity_busquedas.xml" value="0.23505434782608695" />
+        <entry key="..\:/appAndroid/app/src/main/res/layout/activity_detalle_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/appAndroid/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/appAndroid/app/src/main/res/layout/activity_menu.xml" value="0.264" />
+        <entry key="..\:/appAndroid/app/src/main/res/layout/activity_nuevo_menu.xml" value="0.264" />
+        <entry key="..\:/appAndroid/app/src/main/res/layout/activity_opciones.xml" value="0.264" />
+        <entry key="..\:/appAndroid/app/src/main/res/layout/activity_reservar.xml" value="0.23958333333333334" />
+        <entry key="..\:/appAndroid/app/src/main/res/layout/activity_reservas.xml" value="0.264" />
+        <entry key="..\:/appAndroid/app/src/main/res/layout/fila_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/appAndroid/app/src/main/res/layout/fila_personalizada.xml" value="0.24864130434782608" />
+        <entry key="..\:/appAndroid/app/src/main/res/layout/fragment_reservas_dos.xml" value="0.25226449275362317" />
+        <entry key="..\:/appAndroid/app/src/main/res/layout/fragment_reservas_tres.xml" value="0.25226449275362317" />
+        <entry key="..\:/appAndroid/app/src/main/res/layout/fragment_reservas_uno.xml" value="0.25226449275362317" />
+        <entry key="..\:/appAndroid/app/src/main/res/menu/accion_guardar_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/appAndroid/app/src/main/res/menu/acciones_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/appAndroid/app/src/main/res/menu/menu_superior.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
